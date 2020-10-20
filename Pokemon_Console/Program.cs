@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pokemon_Console;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace Pokemon_Console
     {
         static void Main(string[] args)
         {
-            ProgramUI program = ProgramUI();
-            program.Run);
+            ProgramUI program = new ProgramUI();
+            program.Run();
         }
     }

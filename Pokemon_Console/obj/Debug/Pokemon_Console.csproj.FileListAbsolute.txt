@@ -8,3 +8,13 @@ C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Chal
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Console\bin\Debug\Pokemon_Repository.dll
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Console\bin\Debug\Pokemon_Repository.pdb
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Console\obj\Debug\Pokemon_Console.csproj.CopyComplete
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\obj\Debug\Pokemon_Console.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\obj\Debug\Pokemon_Console.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\obj\Debug\Pokemon_Console.exe
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\obj\Debug\Pokemon_Console.pdb
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\bin\Debug\Pokemon_Console.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\bin\Debug\Pokemon_Console.exe
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\bin\Debug\Pokemon_Console.pdb
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\bin\Debug\Pokemon_Repository.dll
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\bin\Debug\Pokemon_Repository.pdb
+D:\ElevenFiftyProjects\DotNetProjects\BrokenAppChallenge\SD_BrokenApp\Pokemon_Console\obj\Debug\Pokemon_Console.csproj.CopyComplete
