@@ -11,7 +11,7 @@ namespace Pokemon_Repo
     {
         List<Pokemon> _pokemonTeam = new List<Pokemon>();
 
-        //add to list (limit pokemon to 6)
+        //add to list (limit pokemon to 6) beep boop
         public void AddPokemonToTeam(Pokemon pokemon)
         {
             _pokemonTeam.Add(pokemon);
